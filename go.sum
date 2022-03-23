@@ -1,0 +1,6 @@
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/lair-framework/go-nmap v0.0.0-20191202052157-3507e0b03523 h1:N4NQR4on0n3Kc3xlBXUYzCZorFdordwkR2kcZMk9te0=
+github.com/lair-framework/go-nmap v0.0.0-20191202052157-3507e0b03523/go.mod h1:7Em1Lxm3DFdLvXWUZ6bQ/xIbGlxFy7jl07bziQMZ/kU=
+github.com/n0ncetonic/nmapxml v0.0.0-20180817022017-0d628218dd06 h1:Sk1cqUAFYSYzVwUKowOpo9VkWVdxdKRJoyeGG5gPXjI=
+github.com/n0ncetonic/nmapxml v0.0.0-20180817022017-0d628218dd06/go.mod h1:/F3nV/XzoLI2vUHcLJXsoZrxeH2SOkI9dG2oVnnPL3s=
